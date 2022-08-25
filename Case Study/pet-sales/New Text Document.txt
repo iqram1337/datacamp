@@ -1,8 +1,0 @@
-Spent my summer studying data analytics through a program at Datacamp, and now I have successfully passed the certificate requirements!
-
-Some of the things I had to go through to get this certificate were like:
-- Completed Data Analyst Program Path in Python with a total of 8 courses
-
-- A one-time, 45-minute exam that assesses your skills in data management, exploratory analysis, and statistical experimentation using SQL.
-
-- One case study, the last step in this certification is a case study and I got a "Pet Box Subscription" which requires an analysis of pet accessories sales by several categories. Case studies assess your skills in communication and data visualization. You will review business issues, select and create appropriate visualizations, and provide a written report on your summary.
