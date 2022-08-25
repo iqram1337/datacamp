@@ -1,0 +1,105 @@
+suspect,location,date,item,price
+Kirstine Smith,Groceries R Us,43106,broccoli,1.25
+Gertrude Cox,Petroleum Plaza,43106,fizzy drink,1.9
+Fred Frequentist,Groceries R Us,43106,broccoli,1.25
+Gertrude Cox,Groceries R Us,43112,broccoli,1.25
+Kirstine Smith,Clothing Club,43109,shirt,14.25
+Gertrude Cox,Burger Mart,43110,burger,3.95
+Fred Frequentist,Burger Mart,43106,fries,1.95
+Ronald Aylmer Fisher,Clothing Club,43108,pants,12.05
+Ronald Aylmer Fisher,Clothing Club,43113,shirt,14.25
+Kirstine Smith,Clothing Club,43101,shirt,14.25
+Kirstine Smith,Clothing Club,43107,pants,12.05
+Gertrude Cox,Petroleum Plaza,43114,fizzy drink,1.9
+Ronald Aylmer Fisher,Petroleum Plaza,43110,carwash,13.25
+Fred Frequentist,Burger Mart,43107,cheeseburger,4.95
+Gertrude Cox,Clothing Club,43105,pants,12.05
+Gertrude Cox,Burger Mart,43102,cheeseburger,4.95
+Gertrude Cox,Groceries R Us,43111,broccoli,1.25
+Kirstine Smith,Petroleum Plaza,43112,carwash,13.25
+Gertrude Cox,Petroleum Plaza,43113,fizzy drink,1.9
+Fred Frequentist,Clothing Club,43108,shirt,14.25
+Kirstine Smith,Petroleum Plaza,43112,fizzy drink,1.9
+Fred Frequentist,Petroleum Plaza,43108,carwash,13.25
+Ronald Aylmer Fisher,Groceries R Us,43113,eggs,6.5
+Gertrude Cox,Burger Mart,43109,burger,3.95
+Gertrude Cox,Burger Mart,43114,cheeseburger,4.95
+Kirstine Smith,Groceries R Us,43102,cheese,5
+Ronald Aylmer Fisher,Burger Mart,43108,fries,1.95
+Gertrude Cox,Groceries R Us,43108,cheese,5
+Fred Frequentist,Clothing Club,43103,dress,20.15
+Kirstine Smith,Clothing Club,43105,dress,20.15
+Kirstine Smith,Burger Mart,43109,burger,3.95
+Gertrude Cox,Clothing Club,43107,pants,12.05
+Kirstine Smith,Groceries R Us,43105,cheese,5
+Ronald Aylmer Fisher,Petroleum Plaza,43107,gas,24.95
+Ronald Aylmer Fisher,Groceries R Us,43106,cucumbers,2.05
+Gertrude Cox,Clothing Club,43112,shirt,14.25
+Gertrude Cox,Burger Mart,43102,cheeseburger,4.95
+Fred Frequentist,Clothing Club,43108,dress,20.15
+Kirstine Smith,Petroleum Plaza,43112,fizzy drink,1.9
+Ronald Aylmer Fisher,Groceries R Us,43102,eggs,6.5
+Gertrude Cox,Clothing Club,43101,dress,20.15
+Kirstine Smith,Petroleum Plaza,43105,gas,24.95
+Gertrude Cox,Petroleum Plaza,43113,fizzy drink,1.9
+Ronald Aylmer Fisher,Petroleum Plaza,43114,fizzy drink,1.9
+Ronald Aylmer Fisher,Petroleum Plaza,43105,fizzy drink,1.9
+Fred Frequentist,Groceries R Us,43106,cheese,5
+Ronald Aylmer Fisher,Groceries R Us,43109,cucumbers,2.05
+Ronald Aylmer Fisher,Petroleum Plaza,43102,gas,24.95
+Kirstine Smith,Clothing Club,43108,dress,20.15
+Gertrude Cox,Groceries R Us,43102,broccoli,1.25
+Fred Frequentist,Petroleum Plaza,43103,fizzy drink,1.9
+Gertrude Cox,Groceries R Us,43114,eggs,6.5
+Gertrude Cox,Burger Mart,43106,cheeseburger,4.95
+Kirstine Smith,Petroleum Plaza,43110,carwash,13.25
+Gertrude Cox,Burger Mart,43112,fries,1.95
+Fred Frequentist,Clothing Club,43112,shirt,14.25
+Kirstine Smith,Groceries R Us,43112,milk,4.25
+Gertrude Cox,Clothing Club,43103,pants,12.05
+Fred Frequentist,Groceries R Us,43109,cheese,5
+Kirstine Smith,Burger Mart,43113,fries,1.95
+Kirstine Smith,Petroleum Plaza,43102,carwash,13.25
+Gertrude Cox,Petroleum Plaza,43105,carwash,13.25
+Ronald Aylmer Fisher,Petroleum Plaza,43106,fizzy drink,1.9
+Gertrude Cox,Clothing Club,43104,dress,20.15
+Ronald Aylmer Fisher,Groceries R Us,43108,milk,4.25
+Ronald Aylmer Fisher,Petroleum Plaza,43113,fizzy drink,1.9
+Gertrude Cox,Burger Mart,43101,burger,3.95
+Gertrude Cox,Clothing Club,43107,pants,12.05
+Ronald Aylmer Fisher,Burger Mart,43114,fries,1.95
+Gertrude Cox,Clothing Club,43106,dress,20.15
+Fred Frequentist,Clothing Club,43113,shirt,14.25
+Gertrude Cox,Burger Mart,43101,burger,3.95
+Ronald Aylmer Fisher,Groceries R Us,43107,cucumbers,2.05
+Ronald Aylmer Fisher,Petroleum Plaza,43101,gas,24.95
+Fred Frequentist,Groceries R Us,43111,cheese,5
+Gertrude Cox,Groceries R Us,43114,milk,4.25
+Gertrude Cox,Clothing Club,43110,dress,20.15
+Fred Frequentist,Burger Mart,43108,cheeseburger,4.95
+Kirstine Smith,Clothing Club,43107,shirt,14.25
+Kirstine Smith,Clothing Club,43113,pants,12.05
+Ronald Aylmer Fisher,Clothing Club,43113,pants,12.05
+Gertrude Cox,Groceries R Us,43113,broccoli,1.25
+Ronald Aylmer Fisher,Clothing Club,43106,shirt,14.25
+Ronald Aylmer Fisher,Burger Mart,43102,fries,1.95
+Gertrude Cox,Clothing Club,43105,dress,20.15
+Ronald Aylmer Fisher,Clothing Club,43103,pants,12.05
+Fred Frequentist,Groceries R Us,43103,milk,4.25
+Gertrude Cox,Petroleum Plaza,43108,gas,24.95
+Ronald Aylmer Fisher,Burger Mart,43108,fries,1.95
+Gertrude Cox,Petroleum Plaza,43108,gas,24.95
+Fred Frequentist,Burger Mart,43101,fries,1.95
+Gertrude Cox,Burger Mart,43107,burger,3.95
+Fred Frequentist,Clothing Club,43102,pants,12.05
+Ronald Aylmer Fisher,Groceries R Us,43110,milk,4.25
+Ronald Aylmer Fisher,Petroleum Plaza,43109,fizzy drink,1.9
+Kirstine Smith,Burger Mart,43105,cheeseburger,4.95
+Gertrude Cox,Groceries R Us,43108,cucumbers,2.05
+Gertrude Cox,Petroleum Plaza,43108,fizzy drink,1.9
+Ronald Aylmer Fisher,Clothing Club,43112,pants,12.05
+Gertrude Cox,Clothing Club,43107,shirt,14.25
+Fred Frequentist,Clothing Club,43104,pants,12.05
+Gertrude Cox,Clothing Club,43109,dress,20.15
+Kirstine Smith,Burger Mart,43114,burger,3.95
+Ronald Aylmer Fisher,Groceries R Us,43111,cucumbers,2.05
